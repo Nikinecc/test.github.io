@@ -1,0 +1,8 @@
+.video{
+    width: 1440;
+    display: flex;
+    justify-content: space-around;
+}
+.video video{
+    width: 500px;
+}
